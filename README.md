@@ -1,7 +1,7 @@
 # 👾 Oi! Tudo bem?
 
 <p align="center">
-  <img src="https://i.gifer.com/1amw.gif" width="250" alt="Pixel art hello">
+  <img src="https://i.gifer.com/1ILO.gif" width="250" alt="Pixel art hello">
 </p>
 
 ---
