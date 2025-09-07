@@ -1,4 +1,4 @@
-# 👾 Hey, bem-vindo(a) ao meu mundo 8-bit!  
+# 👾 Oi! Tudo bem?
 
 <p align="center">
   <img src="https://i.gifer.com/1amw.gif" width="250" alt="Pixel art hello">
@@ -7,7 +7,7 @@
 ---
 
 ## 🎮 Sobre mim
-✨ Me chamo **Matheus**, sou apaixonado por tecnologia e estou trilhando meu caminho para me tornar um **Desenvolvedor Full Stack**.  
+✨ Me chamo **Matheus**, gosto muito de tecnologia e estou trilhando meu caminho para me tornar um **Desenvolvedor Full Stack**.  
 🚀 Aqui você vai encontrar meus projetos, estudos e experimentos no mundo da programação!  
 💡 Sempre aprendendo, sempre evoluindo.  
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Stats (modo arcade ON)
+## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" alt="Linguagens" />
